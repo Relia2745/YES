@@ -1,0 +1,31 @@
+<html>
+<head><title> ACTIVITIES </title></head>
+   <style>
+body {background-image: url("https://scontent.xx.fbcdn.net/v/t1.15752-9/462582105_3965508413773420_2692808586633084826_n.png?stp=dst-png_s720x720&_nc_cat=103&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeE_-Yw8lpRZQadsO91WgYXIWnlf6myvjs9aeV_qbK-OzzVYcRo1DCcfwRa2BRrAKOqg2BP4Ax-LoT4Ic-a3wlHG&_nc_ohc=OPhfgPDkjoAQ7kNvgHP-Th0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1QHwDGTsxutFCOpz0pgF2ObiSNCpHzvtQX-QMoRvIjYb3Q&oe=676F27D9");}
+
+p {Background-color: purple; font-size: 45px;}
+   </style>
+
+<body>
+<pre>
+<p>              <Strong><u>WELCOME TO THE ACTIVITIES</u></Strong> </p>
+
+
+<h1><u><STRONG> GALLERY </STRONG></u></h1>
+<img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/462583628_1996491430773731_9125461906023522413_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeHnE5yQpDNFt5t1JmqtqbRXAdyoeMHO6zwB3Kh4wc7rPIOLhQJG-ScUwfoBlWg214fOdojN4K8r_fOc1xp46pk3&_nc_ohc=tOdUt6aJS3AQ7kNvgE3qOtE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1QE5tojWg82PyyvHStqCbXqWpYitNK72snAH18BgaSNPAw&oe=67728980" href="BOOKLANDIA" height="300px" width="285px"> Booklandia representatives of 9-faith
+<img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/462552615_882867450678084_5473268590771526762_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeGZL6VzqBtPphBTY2tjywJaYccODhXJ3o1hxw4OFcnejU1rT9hB77yK_BByn949pEBXd3pcHifA7D3totHkAlQv&_nc_ohc=dcOkIF83GGQQ7kNvgF7r9mN&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1QEWVCDVZfFR1YuDsey-eSEFH_vHUvcPBf9AKZQ3Yffa8g&oe=67728D4A" alt="costumes" Height="335px" width="295px"> BOOKLANDIA COSTUMES!
+<img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/462558639_3824379221153603_8603670090899366031_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeH_YgCCC3GDxD4tBg5bSRQsuu_p02s_Xb667-nTaz9dviQyc2ajGFNZgx9cEEvhegFXmBQ-r56HkcxgxagY6AMi&_nc_ohc=QiFC30QCs70Q7kNvgH9Y9s0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1QE30RISnEtEVC7hHZrllRdvIjSPUdKSIhmiYKrytquh9Q&oe=6772743E" alt="dress" Height="335px" width="295px"> Historical icon dress
+<img src="https://scontent.fmnl8-3.fna.fbcdn.net/v/t39.30808-6/462155451_557888346743288_7068982309664521748_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHZJcmN_XpjRiC-ETVMjgK8Yp6AzJLFqDZinoDMksWoNvouOstGJw6pa1s1J8X9rNbK9iQNIq5mMZZKvbLsOl0q&_nc_ohc=gerdKIAsTEwQ7kNvgEEo4nW&_nc_zt=23&_nc_ht=scontent.fmnl8-3.fna&_nc_gid=AjkugrDEGIBNVTbfFNjNdnq&oh=00_AYCqHjqnI-p9aOR31tLGmwyEFhvQiNSDkqD2vIhYCZNTMQ&oe=6750E517" alt="opening
+" Height="335px" width="295px"> Intrams opening ! 
+<img src="https://scontent.fmnl8-6.fna.fbcdn.net/v/t1.15752-9/467476925_2261113107603291_6853830463990044017_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeEEnMn9uPioX7tacnawn4e0Mwm7vhF_7UYzCbu-EX_tRueOaDLnvY2ylgi7FE85P2j15ZBVZZszyB-oesD-kd34&_nc_ohc=8OekRCQEhh0Q7kNvgF__WrL&_nc_zt=23&_nc_ht=scontent.fmnl8-6.fna&oh=03_Q7cD1QECY4-uADjEh8Ar7IHjBtKU2B2zgTxW5N3yzFMHDLrviA&oe=677265D3" alt="dancesport" Height="335px" width="295px"> Dancesport representatives-- Intramurals!
+</pre>
+<p Style="text-aligned:left;">
+<video width="320" height="240" controls>
+  <source src="729e73f0-9718-445a-87c9-0167d81a554b" type="video">
+  </video>
+<video width="320" height="240" controls>
+  <source src="955fbf15-1a5c-4407-887f-ffe07c491ca3" type="video">
+  </video>
+
+</body>
+</html>
